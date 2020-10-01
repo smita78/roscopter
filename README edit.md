@@ -1,7 +1,7 @@
 ROScopter
 =========
 
-This repository contains the ROS packages associated with flying a multirotor on the [ROSflight](http://rosflight.org) autopilot stack. The `roscopter` ROS package contains a high-level multirotor autopilot while the `roscopter_sim` package is used for simulation.
+This repository contains the ROS packages associated with flying a multirotor on the [ROSflight](http://rosflight.org) autopilot stack. The `roscopter` ROS package contains a high-level multirotor autopilot while the `ROScopter_sim` package is used for simulation.
 
 View Wiki for detailed step by step setup instructions
 
